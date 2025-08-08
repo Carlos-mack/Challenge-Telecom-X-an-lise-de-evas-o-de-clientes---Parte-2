@@ -1,7 +1,7 @@
 # TelecomX-Parte-2
 # 📊 TelecomX – Previsão de Churn de Clientes
 
-[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEU_USUARIO/SEU_REPOSITORIO/blob/main/Challenge_TelecomX_2.ipynb)
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Carlos-mack/Challenge-Telecom-X-an-lise-de-evas-o-de-clientes---Parte-2/blob/main/Challenge_TelecomX_2.ipynb)
 
 ## 📌 Sobre o Projeto
 Este projeto tem como objetivo desenvolver um modelo de Machine Learning capaz de prever, com antecedência, quais clientes da **TelecomX** apresentam maior probabilidade de cancelar o serviço (**churn**).  
